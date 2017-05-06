@@ -8,7 +8,7 @@ example:
 
 - You need to enable 'EnableRemoteCommands' for zabbix-agent
 
-- result
+result:
 ![result](https://cloud.githubusercontent.com/assets/12140221/25774524/ac8b2978-32ba-11e7-847f-4a3364aef706.PNG)
 
 

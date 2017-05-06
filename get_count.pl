@@ -17,7 +17,7 @@ use Data::Dumper;
 #================================================================
 #ZABBIX
 use constant ZABBIX_USER	=> 'Admin';
-use constant ZABBIX_PASSWORD	=> '78%Ytn#4Wq32!Hynm90';
+use constant ZABBIX_PASSWORD	=> 'zabbix';
 use constant ZABBIX_SERVER	=> 'localhost';
 
 #DEBUG

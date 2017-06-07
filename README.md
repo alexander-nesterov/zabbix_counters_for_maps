@@ -1,5 +1,4 @@
-# zabbix_counters_for_maps
-zabbix_counters_for_maps
+# Zabbix counters for maps
 
 - You need to create items
 
